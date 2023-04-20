@@ -1,0 +1,15 @@
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\bin\Debug\net7.0\HospedagemDeHotelComCSharp.exe
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\bin\Debug\net7.0\HospedagemDeHotelComCSharp.deps.json
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\bin\Debug\net7.0\HospedagemDeHotelComCSharp.runtimeconfig.json
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\bin\Debug\net7.0\HospedagemDeHotelComCSharp.dll
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\bin\Debug\net7.0\HospedagemDeHotelComCSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.csproj.AssemblyReference.cache
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.AssemblyInfoInputs.cache
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.AssemblyInfo.cs
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.dll
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\refint\HospedagemDeHotelComCSharp.dll
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.pdb
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\HospedagemDeHotelComCSharp.genruntimeconfig.cache
+C:\Users\hugo.santos\Documents\estudo\HospedagemDeHotelComCSharp\obj\Debug\net7.0\ref\HospedagemDeHotelComCSharp.dll
